@@ -1,14 +1,10 @@
-# ZC-DINO-ER
-This repository contains the supplementary code for the journal submitted to IEEE Access (2025) titled: "Zero-Shot Eggshell Crack Detection Using Grounding DINO and FFT-Based Outer-to-Inner Ring Energy Ratio
-
-# ZC-DINO-ER
-
+## 🥚 ZC-DINO-ER
 This repository contains the supplementary code for the journal submitted to **IEEE Access (2025)** titled:  
 **"Zero-Shot Eggshell Crack Detection Using Grounding DINO and FFT-Based Outer-to-Inner Ring Energy Ratio"**
 
 ---
 
-## 🥚 Hen Egg Crack Detection Project
+ Hen Egg Crack Detection Project
 
 This project focuses on detecting cracks in hen eggs using a combination of traditional computer vision techniques, vision-language models, and supervised learning. The dataset and code are organized to support clear experimentation and development.
 
