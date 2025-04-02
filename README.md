@@ -4,12 +4,6 @@ This repository contains the supplementary code for the journal submitted to **I
 
 ---
 
- Hen Egg Crack Detection Project
-
-This project focuses on detecting cracks in hen eggs using a combination of traditional computer vision techniques, vision-language models, and supervised learning. The dataset and code are organized to support clear experimentation and development.
-
----
-
 ## 📂 Dataset Structure
 
 - `dataset1_images/hen/`  
