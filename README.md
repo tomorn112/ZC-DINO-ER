@@ -13,7 +13,7 @@ This repository contains the supplementary code for the journal submitted to **I
   Contains **real-world video footage** used for evaluating the robustness of the detection pipeline in dynamic, practical scenarios.
 
 - `duck_egg_dataset/`  
-  Additional dataset contributed by Bhavya Botta and Ashis Kumar Datta for real-time crack detection on chicken eggs.  
+  Additional dataset contributed by Bhavya Botta and Ashis Kumar Datta for real-time crack detection on duck eggs.  
   📎 [View on Figshare](https://figshare.com/articles/dataset/Dataset_for_real-time_crack_detection_on_chicken_eggs/21568425)
 
 ---
